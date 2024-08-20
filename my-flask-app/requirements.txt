@@ -5,4 +5,4 @@ numpy
 flask-cors
 gunicorn
 xgboost
-sklearn
+scikit-learn
